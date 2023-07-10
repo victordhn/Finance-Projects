@@ -7,5 +7,9 @@
 1. [Projeto Candlesticks (gráfico de velas)](https://github.com/victordhn/Finance-Projects/blob/master/Candlesticks.ipynb)
 2. [Projeto Gráfico do Portfólio](https://github.com/victordhn/Finance-Projects/blob/master/Portfolio_Grafico.ipynb)
 
+#### Utilizando o pacote yahoo_fin
+4. [Stock Screening na Bovespa](https://github.com/victordhn/Finance-Projects/blob/master/Stock_Screening_Bovespa.ipynb)
+
 #### Webscraping
 3. [Projeto Webscraping na B3 - Composição de Índices](https://github.com/victordhn/Finance-Projects/blob/master/Webscraping_B3.ipynb)
+
