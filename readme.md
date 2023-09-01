@@ -12,4 +12,4 @@
 
 #### Webscraping
 3. [Projeto Webscraping na B3 - Composição de Índices](https://github.com/victordhn/Finance-Projects/blob/master/Webscraping_B3.ipynb)
-
+*obs (set-2023): atualizar selenium para funcionar: pip install -U selenium==4.11.2
