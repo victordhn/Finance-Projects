@@ -9,6 +9,7 @@
 
 #### Utilizando o pacote yahoo_fin
 3. [Stock Screening na Bovespa](https://github.com/victordhn/Finance-Projects/blob/master/Stock_Screening_Bovespa.ipynb)
+- (desatualizado out-2023) pacote para baixar tickers do IBOV está com problema; irei atualizar com meu próprio código para baixar os tickers (ver projeto 4).
 
 #### Webscraping
 4. [Projeto Webscraping na B3 - Composição de Índices](https://github.com/victordhn/Finance-Projects/blob/master/Webscraping_B3.ipynb)
