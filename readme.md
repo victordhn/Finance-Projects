@@ -13,3 +13,6 @@
 #### Webscraping
 3. [Projeto Webscraping na B3 - Composição de Índices](https://github.com/victordhn/Finance-Projects/blob/master/Webscraping_B3.ipynb)
 - (update set-2023) precisa atualizar o selenium para funcionar. `pip install -U selenium==4.11.2`
+
+### Machine Learning
+5. [Regressão Linear aplicada ao Mercado Financeiro](https://github.com/victordhn/Finance-Projects/blob/master/Regress%C3%A3o%20Linear.ipynb)
