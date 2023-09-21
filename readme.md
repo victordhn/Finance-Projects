@@ -16,6 +16,6 @@
 4. [Projeto Webscraping na B3 - Composição de Índices](https://github.com/victordhn/Finance-Projects/blob/master/Webscraping_B3.ipynb)
 5. [Simulação PGBL x VGBL](https://github.com/victordhn/Finance-Projects/blob/master/Previdencia.ipynb)
 
-#### Machine Learning aplicada ao Mercado Financeiro
+#### Machine Learning aplicado ao Mercado Financeiro
 
-1. [Regressão Linear aplicada ao Mercado Financeiro](https://github.com/victordhn/Finance-Projects/blob/master/Regress%C3%A3o%20Linear.ipynb)
+1. [Regressão Linear aplicado ao Mercado Financeiro](https://github.com/victordhn/Finance-Projects/blob/master/Regress%C3%A3o%20Linear.ipynb)
