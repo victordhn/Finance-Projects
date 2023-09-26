@@ -12,10 +12,9 @@
 #### Finanças e Investimentos
 1. [Projeto Candlesticks](https://github.com/victordhn/Finance-Projects/blob/master/Candlesticks.ipynb)
 2. [Projeto Gráfico do Portfólio](https://github.com/victordhn/Finance-Projects/blob/master/Portfolio_Grafico.ipynb)
-3. [Stock Screening na Bovespa](https://github.com/victordhn/Finance-Projects/blob/master/Stock_Screening_Bovespa.ipynb)
-4. [Projeto Webscraping na B3 - Composição de Índices](https://github.com/victordhn/Finance-Projects/blob/master/Webscraping_B3.ipynb)
-5. [Simulação PGBL x VGBL](https://github.com/victordhn/Finance-Projects/blob/master/Previdencia.ipynb)
-6. [Baixando Cotação de Ações](https://github.com/victordhn/Finance-Projects/blob/master/Download_Cotacoes.ipynb)
+3. [Projeto Webscraping na B3 - Composição de Índices](https://github.com/victordhn/Finance-Projects/blob/master/Webscraping_B3.ipynb)
+4. [Simulação PGBL x VGBL](https://github.com/victordhn/Finance-Projects/blob/master/Previdencia.ipynb)
+5. [Baixando Cotação de Ações](https://github.com/victordhn/Finance-Projects/blob/master/Download_Cotacoes.ipynb)
 
 #### Machine Learning aplicado ao Mercado Financeiro
 
