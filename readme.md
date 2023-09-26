@@ -10,7 +10,7 @@
 
 ### Todos os projetos:
 #### Finanças e Investimentos
-1. [Projeto Candlesticks (gráfico de velas)](https://github.com/victordhn/Finance-Projects/blob/master/Candlesticks.ipynb)
+1. [Projeto Candlesticks](https://github.com/victordhn/Finance-Projects/blob/master/Candlesticks.ipynb)
 2. [Projeto Gráfico do Portfólio](https://github.com/victordhn/Finance-Projects/blob/master/Portfolio_Grafico.ipynb)
 3. [Stock Screening na Bovespa](https://github.com/victordhn/Finance-Projects/blob/master/Stock_Screening_Bovespa.ipynb)
 4. [Projeto Webscraping na B3 - Composição de Índices](https://github.com/victordhn/Finance-Projects/blob/master/Webscraping_B3.ipynb)
@@ -19,4 +19,4 @@
 
 #### Machine Learning aplicado ao Mercado Financeiro
 
-1. [Regressão Linear aplicado ao Mercado Financeiro](https://github.com/victordhn/Finance-Projects/blob/master/Regressao%20Linear.ipynb)
+1. [Regressão Linear aplicada ao Mercado Financeiro](https://github.com/victordhn/Finance-Projects/blob/master/Regressao%20Linear.ipynb)
