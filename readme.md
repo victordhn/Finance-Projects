@@ -16,6 +16,9 @@
 4. [Simulação PGBL x VGBL](https://github.com/victordhn/Finance-Projects/blob/master/Previdencia.ipynb)
 5. [Baixando Cotação de Ações](https://github.com/victordhn/Finance-Projects/blob/master/Download_Cotacoes.ipynb)
 
+#### Teoria Financeira
+1. [Arbitrage-Free Pricing](https://github.com/victordhn/Finance-Projects/blob/master/Finance_Theory.ipynb)
+
 #### Machine Learning aplicado ao Mercado Financeiro
 
 1. [Regressão Linear aplicada ao Mercado Financeiro](https://github.com/victordhn/Finance-Projects/blob/master/Regressao%20Linear.ipynb)
