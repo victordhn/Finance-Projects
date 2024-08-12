@@ -30,3 +30,4 @@
 
 1. [Regressão Linear aplicada ao Mercado Financeiro](https://github.com/victordhn/Finance-Projects/blob/master/Regressao%20Linear.ipynb)
 2. [Support Vector Machine (SVM) na Análise de Crédito](https://github.com/victordhn/Finance-Projects/blob/master/Credit%20Analysis/An%C3%A1lise%20de%20Cr%C3%A9dito%20SVM.ipynb)
+3. [Neural Networks na Análise de Crédito](https://github.com/victordhn/Finance-Projects/blob/master/Neural%20Network/An%C3%A1lise%20de%20Cr%C3%A9dito%20Rede%20Neural.ipynb)
